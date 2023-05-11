@@ -9,7 +9,7 @@ Charges credit cards and stores transaction data in a database
 Allows users to view their transaction history
 # Installation
 To install the payment application, you will need to have Python 3 installed on your computer.
-Clone the repository to your local machine: git clone https://github.com/PiyushRaj714/payment-app.git
+Clone the repository to your local machine: git clone https://github.com/PiyushRaj714/Payment-application.git
 Navigate to the project directory: cd payment-app
 Install the required dependencies: pip install -r requirements.txt
 Run the application: python payment_app.py
